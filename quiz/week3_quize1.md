@@ -24,7 +24,7 @@ and it outputs on a new example x a prediction hθ(x) = 0.4. This means (check a
 
 Suppose you have the following training set, and fit a logistic regression classifier hθ(x)=g(θ0+θ1x1+θ2x2).
 
-https://d3c33hcgiwev3.cloudfront.net/vDH1Eb5xEeSVRiIAC2sM-Q_Screen-Shot-2015-02-27-at-3.09.52-AM.png?Expires=1500508800&Signature=WLRnJn0pRzBNRf2X5BeZXn3b1U8dAzehdQ8XWmBK-elkwPME-yluKCD1WSMIENT7R1VP4TXtveFzi~GUH6396XxfrKCH0hQ6afqh5DBzeT~AzBNn6ZKAqcvVMYFo~fpZzulO8EI315fSsnqhyh8t7ZGBR61bJ~ho97S4yEpjRMI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+- ![](https://d3c33hcgiwev3.cloudfront.net/vDH1Eb5xEeSVRiIAC2sM-Q_Screen-Shot-2015-02-27-at-3.09.52-AM.png?Expires=1500508800&Signature=WLRnJn0pRzBNRf2X5BeZXn3b1U8dAzehdQ8XWmBK-elkwPME-yluKCD1WSMIENT7R1VP4TXtveFzi~GUH6396XxfrKCH0hQ6afqh5DBzeT~AzBNn6ZKAqcvVMYFo~fpZzulO8EI315fSsnqhyh8t7ZGBR61bJ~ho97S4yEpjRMI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ### Answer
 
